@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# <p align="center"><img src="./public/logo.png" width="48px" /><br/>NextOS</p>
 
-## Getting Started
+<p align="center">A Modern Operating System design built into a Website using Next JS and Tailwind CSS</p>
 
-First, run the development server:
+<!-- website status and other data size -->
+<!-- `Visit` button -->
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### `🔥 Modern UI` `🌈 Live Wallpaper` `💻 Apps` `📊 Widgets`
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Built With
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat)
+![Next JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Screenshots
 
-## Learn More
+## Contribute
 
-To learn more about Next.js, take a look at the following resources:
+**If you are Using NPM then:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Step 1:** Fork and Download the Repository
+- **Step 2:** Open it in editor like VSCode
+- **Step 3:** Open Terminal inside it and run ` npm install` to install required dependencies (you can apply '--force' after command and then run it , incase you face any error)
+- **Step 4:** Run `npm run dev` to launch the website on 'localhost:3000' and check if it is working without any error.
+- **Step 5:** Do your Changes and make sure that you don't get any error or warning.
+- **Step 6:** Push on github and Create a Pull Request
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Stuck? Search your issue/error on Google**
 
-## Deploy on Vercel
+## Socials
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href="https://pushkaryadav.in/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://twitter.com/pushkaryadav_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" />
+</a><a href="https://www.buymeacoffee.com/pushkarydv" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
