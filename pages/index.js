@@ -14,7 +14,7 @@ export default function Home() {
         />
         <link rel="icon" href="/logo.png" />
       </Head>
-      <div className="w-full h-screen relative">
+      <div className="w-full h-screen relative overflow-hidden">
         <Widget />
         <BaseApp />
         <Accessbar />
