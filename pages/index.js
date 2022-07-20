@@ -11,7 +11,11 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="text-center text-emerald-500 text-4xl">Hello India!</div>
+      <div className="w-full h-screen relative">
+        <div className="text-center text-emerald-500 text-4xl">
+          Hello India!
+        </div>
+      </div>
     </>
   );
 }
