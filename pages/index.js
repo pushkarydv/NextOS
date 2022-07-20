@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Accessbar from "../components/Accessbar";
+import Widget from "../components/Widget";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="w-full h-screen relative">
+        <Widget />
         <Accessbar />
       </div>
     </>
