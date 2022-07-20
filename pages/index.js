@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Accessbar from "../components/Accessbar";
 
 export default function Home() {
   return (
@@ -12,9 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="w-full h-screen relative">
-        <div className="text-center text-emerald-500 text-4xl">
-          Hello India!
-        </div>
+        <Accessbar />
       </div>
     </>
   );
