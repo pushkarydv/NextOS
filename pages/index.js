@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Accessbar from "../components/Accessbar";
+import BaseApp from "../components/BaseApp";
 import Widget from "../components/Widget";
 
 export default function Home() {
@@ -11,10 +12,11 @@ export default function Home() {
           name="description"
           content="A next generations OS design built for fun using Next Js and Tailwind CSS"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.png" />
       </Head>
       <div className="w-full h-screen relative">
         <Widget />
+        <BaseApp />
         <Accessbar />
       </div>
     </>
