@@ -7,13 +7,13 @@
 
 ## Features
 
- `🔥 Modern UI`
-
- `🌈 Live Wallpaper`
-
- `💻 Apps` 
-
- `📊 Widgets`
+ ```
+ 🔥 Modern UI
+ 🌈 Live Wallpaper
+ 💻 Apps
+ 📊 Widgets
+ ▶️ Music
+ ```
 
 ## Built With
 
@@ -27,6 +27,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ## Screenshots
+
+![53fb3679-e9b7-4d0f-811b-b2f1e6a017bb](https://user-images.githubusercontent.com/96358784/180306558-d9182e61-b705-4fed-a357-988b31e8e47f.png)
+![f271ffbc-c427-4d33-8cb8-ffc8df488a60](https://user-images.githubusercontent.com/96358784/180306568-9246a584-839e-4535-90f2-49c588f5fade.png)
 
 ## Contribute
 
