@@ -30,11 +30,11 @@ export default function Footer() {
           <Twitter className="transition w-full h-full" />
         </a>
       </div>
-      <div className="text-center text-slate-600 dark:text-slate-400 p-2 ">
+      <div className="text-center text-slate-600  p-2 ">
         &lt;/&gt; &amp; crafted with 💚 by{" "}
         <a
           href="https://pushkaryadav.in"
-          className="no-underline text-slate-800 dark:text-slate-100"
+          className="no-underline text-slate-800 "
           rel="noopener noreferrer"
           target="_blank"
         >
