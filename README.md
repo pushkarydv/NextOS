@@ -1,19 +1,26 @@
-# <p align="center"><img src="./public/logo.png" width="48px" /><br/>NextOS</p>
-
-<p align="center">A Modern Operating System design built into a Website using Next JS and Tailwind CSS</p>
+<div align="center">
+ <h1> <img src="https://next-os.vercel.app/logo.png" width="80px"><br/>NextOS</h1>
+ <p align="center">A Modern Operating System design built into a Website using Next JS and Tailwind CSS</p>
+ <img src="https://img.shields.io/badge/Release-v.1.0.0-brightgreen?style=flat"/>
+ <img src="https://img.shields.io/badge/Code-Open%20Source-brightgreen?style=flat"/>
+ <img src="https://img.shields.io/npm/v/npm?style=flat">
+ <img src="https://img.shields.io/website?style=flat&url=https%3A%2F%2Fnext-os.vercel.app/"> 
+ <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat"/>
+ <img src="https://img.shields.io/github/languages/code-size/pushkarydv/NextOS?logo=github&style=flat">
+</div>
 
 <!-- website status and other data size -->
 <!-- `Visit` button -->
 
 ## Features
 
- `🔥 Modern UI`
-
- `🌈 Live Wallpaper`
-
- `💻 Apps` 
-
- `📊 Widgets`
+ ```
+ 🔥 Modern UI
+ 🌈 Live Wallpaper
+ 💻 Apps
+ 📊 Widgets
+ ▶️ Music
+ ```
 
 ## Built With
 
@@ -27,6 +34,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ## Screenshots
+
+![53fb3679-e9b7-4d0f-811b-b2f1e6a017bb](https://user-images.githubusercontent.com/96358784/180306558-d9182e61-b705-4fed-a357-988b31e8e47f.png)
+![f271ffbc-c427-4d33-8cb8-ffc8df488a60](https://user-images.githubusercontent.com/96358784/180306568-9246a584-839e-4535-90f2-49c588f5fade.png)
 
 ## Contribute
 
