@@ -9,7 +9,7 @@ export default function BaseApp() {
       <Draggable nodeRef={nodeRef} handle="#draggableDiv">
         <div
           className={
-            "w-[85%] sm:w-96 bg-fuchsia-100/60 mx-auto ring-2 rounded-md ring-fuchsia-100/80 backdrop-blur-sm"
+            "w-[85%] sm:w-96 bg-fuchsia-100/60 mx-auto ring-2 rounded-md ring-fuchsia-100/80 backdrop-blur-sm relative z-10"
           }
           ref={nodeRef}
         >
@@ -29,7 +29,16 @@ export default function BaseApp() {
             </div>
           </div>
           <div className="flex flex-col items-center align-center">
-            <div className="text-xl font-medium text-slate-800">Cartoon</div>
+            <iframe
+              width="560"
+              height="315"
+              className="w-full rounded"
+              src="https://www.youtube.com/embed/CYDP_8UTAus"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
           </div>
         </div>
       </Draggable>
