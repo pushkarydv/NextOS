@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Accessbar from "../components/Accessbar";
+import About from "../components/About";
 import BaseApp from "../components/BaseApp";
 import Widget from "../components/Widget";
 
@@ -17,6 +18,7 @@ export default function Home() {
       <div className="w-full h-screen relative overflow-hidden">
         <Widget />
         <BaseApp />
+        <About />
         <Accessbar />
       </div>
     </>
