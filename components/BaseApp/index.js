@@ -9,7 +9,7 @@ export default function BaseApp() {
       <Draggable nodeRef={nodeRef} handle="#draggableDiv">
         <div
           className={
-            "w-96 bg-fuchsia-100/60 mx-auto ring-2 rounded-md ring-fuchsia-100/80 backdrop-blur-sm"
+            "w-[85%] sm:w-96 bg-fuchsia-100/60 mx-auto ring-2 rounded-md ring-fuchsia-100/80 backdrop-blur-sm"
           }
           ref={nodeRef}
         >
@@ -28,7 +28,9 @@ export default function BaseApp() {
               </button>
             </div>
           </div>
-          content
+          <div className="flex flex-col items-center align-center">
+            <div className="text-xl font-medium text-slate-800">Cartoon</div>
+          </div>
         </div>
       </Draggable>
     </>
