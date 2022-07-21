@@ -5,7 +5,7 @@ import Footer from "../globals/Footer";
 export default function About() {
   return (
     <div
-      className="transition w-[85%] sm:w-96 lg:w-[45%] xl:w-[40%] 2xl:w-[35%] bg-slate-200 mx-auto mt-8 rounded-lg absolute top-0 left-1/2 -translate-x-1/2 z-0 overflow-y-auto max-h-[85%]"
+      className="transition w-[85%] sm:w-96 lg:w-[45%] xl:w-[40%] 2xl:w-[35%] bg-slate-200 mx-auto mt-8 rounded-lg absolute top-0 left-1/2 -translate-x-1/2 z-0 overflow-y-auto max-h-[85%] hidden"
       id="about"
     >
       <div className="w-full flex flex-row flex-wrap text-base items-center justify-between p-2 bg-fuchsia-100/60 rounded-t-md cursor-pointer sticky top-0 left-0">
