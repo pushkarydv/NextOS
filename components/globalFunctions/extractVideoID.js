@@ -5,6 +5,6 @@ export function extractVideoID(url) {
   if (match && match[7].length == 11) {
     return match[7];
   } else {
-    alert("Could not extract video ID.");
+    return `Q44ErJD1qB0`;
   }
 }
