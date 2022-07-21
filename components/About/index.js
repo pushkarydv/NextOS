@@ -5,10 +5,10 @@ import Footer from "../globals/Footer";
 export default function About() {
   return (
     <div
-      className="transition w-[85%] sm:w-96 lg:w-[45%] xl:w-[40%] 2xl:w-[35%] bg-slate-200 mx-auto mt-8 rounded-lg absolute top-0 max-h-screen left-1/2 -translate-x-1/2 z-0"
+      className="transition w-[85%] sm:w-96 lg:w-[45%] xl:w-[40%] 2xl:w-[35%] bg-slate-200 mx-auto mt-8 rounded-lg absolute top-0 left-1/2 -translate-x-1/2 z-0 overflow-y-auto max-h-[85%]"
       id="about"
     >
-      <div className="w-full flex flex-row flex-wrap text-base items-center justify-between p-2 bg-fuchsia-100/60 rounded-t-md cursor-pointer ">
+      <div className="w-full flex flex-row flex-wrap text-base items-center justify-between p-2 bg-fuchsia-100/60 rounded-t-md cursor-pointer sticky top-0 left-0">
         <div className="text-base">About</div>
 
         <button
@@ -32,8 +32,10 @@ export default function About() {
             {feature("🌈 Live Wallpaper")}
             {feature("💻 Apps")}
             {feature("📊 Widgets")}
+            {feature("▶️ Music")}
           </div>
         </div>
+
         <div className="w-full my-1">
           <div className="text-lg px-1">Built With:</div>
           <div className="flex flex-row flex-wrap text-base gap-1 my-1">
@@ -52,7 +54,18 @@ export default function About() {
           </div>
         </div>
       </div>
-      <div className="mb-8"></div>
+      <div className="w-full mt-2 mb-8">
+        <div className="text-lg px-2">It&apos;s Open Source🎉</div>
+        <div className="m-2">
+          {" "}
+          <a
+            href="https://github.com/pushkarydv/NextOS"
+            className="no-underline text-sky-600 px-2 py-1 bg-slate-300/40 hover:bg-slate-300/60 rounded-lg text-lg"
+          >
+            Github Repo ↗️
+          </a>
+        </div>
+      </div>
 
       <Footer />
     </div>
