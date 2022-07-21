@@ -1,5 +1,6 @@
 import React from "react";
 import { toggleApp } from "../globalFunctions/toggle";
+import Footer from "../globals/Footer";
 
 export default function About() {
   return (
@@ -7,7 +8,7 @@ export default function About() {
       className="transition w-[85%] sm:w-96 lg:w-[45%] xl:w-[40%] 2xl:w-[35%] bg-slate-200 mx-auto mt-8 rounded-lg absolute top-0 max-h-screen left-1/2 -translate-x-1/2 z-0"
       id="about"
     >
-      <div className="w-full flex flex-row flex-wrap text-base items-center justify-between p-2 bg-fuchsia-100/60 rounded-t-md cursor-pointer">
+      <div className="w-full flex flex-row flex-wrap text-base items-center justify-between p-2 bg-fuchsia-100/60 rounded-t-md cursor-pointer ">
         <div className="text-base">About</div>
 
         <button
@@ -51,6 +52,9 @@ export default function About() {
           </div>
         </div>
       </div>
+      <div className="mb-8"></div>
+
+      <Footer />
     </div>
   );
 }
