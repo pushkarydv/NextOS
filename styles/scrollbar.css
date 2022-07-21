@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+  background-color: transparent;
+  width: 0.75em;
+  height: 0.4em;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  transform-style: preserve-3d;
+  background-color: rgba(9, 11, 29, 0.8);
+  border-radius: 50px;
+  border-color: rgb(226, 232, 240);
+  border-style: solid;
+  border-width: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(9, 11, 29, 0.9);
+}
+::-webkit-scrollbar-thumb:active {
+  background-color: rgba(9, 11, 29, 1);
+}
