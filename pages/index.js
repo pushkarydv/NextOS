@@ -14,6 +14,41 @@ export default function Home() {
           content="A next generations OS design built for fun using Next Js and Tailwind CSS"
         />
         <link rel="icon" href="/logo.png" />
+        <meta name="title" content="NextOS" />
+
+        <meta
+          name="description"
+          content="A Modern Operating System design built into a Website using Next JS and Tailwind CSS"
+        />
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="language" content="English" />
+        <meta name="author" content="Pushkar Yadav" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://nextos.pushkaryadav.in/" />
+        <meta property="og:title" content="NextOS" />
+        <meta
+          property="og:description"
+          content="A Modern Operating System design built into a Website using Next JS and Tailwind CSS"
+        />
+        <meta
+          property="og:image"
+          content="https://nextos.pushkaryadav.in/banner.png"
+        />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta
+          property="twitter:url"
+          content="https://nextos.pushkaryadav.in/"
+        />
+        <meta property="twitter:title" content="NextOS" />
+        <meta
+          property="twitter:description"
+          content="A Modern Operating System design built into a Website using Next JS and Tailwind CSS"
+        />
+        <meta
+          property="twitter:image"
+          content="https://nextos.pushkaryadav.in/banner.png"
+        />
       </Head>
       <div className="w-full h-screen relative overflow-hidden">
         <Widget />
