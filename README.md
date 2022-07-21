@@ -5,7 +5,7 @@
  <img src="https://img.shields.io/badge/Code-Open%20Source-brightgreen?style=flat"/>
  <img src="https://img.shields.io/npm/v/npm?style=flat">
  <img src="https://img.shields.io/website?style=flat&url=https%3A%2F%2Fnext-os.vercel.app/"> 
- <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=flat"/>
+ <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=flat"/>
  <img src="https://img.shields.io/github/languages/code-size/pushkarydv/NextOS?logo=github&style=flat">
 </div>
 
