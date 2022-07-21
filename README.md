@@ -7,7 +7,13 @@
 
 ## Features
 
-### `🔥 Modern UI` `🌈 Live Wallpaper` `💻 Apps` `📊 Widgets`
+ `🔥 Modern UI`
+
+ `🌈 Live Wallpaper`
+
+ `💻 Apps` 
+
+ `📊 Widgets`
 
 ## Built With
 
