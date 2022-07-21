@@ -1,6 +1,13 @@
-# <p align="center"><img src="./public/logo.png" width="48px" /><br/>NextOS</p>
-
-<p align="center">A Modern Operating System design built into a Website using Next JS and Tailwind CSS</p>
+<div align="center">
+ <h1> <img src="https://next-os.vercel.app/logo.png" width="80px"><br/>NextOS</h1>
+ <p align="center">A Modern Operating System design built into a Website using Next JS and Tailwind CSS</p>
+ <img src="https://img.shields.io/badge/Release-v.1.0.0-brightgreen?style=flat"/>
+ <img src="https://img.shields.io/badge/Code-Open%20Source-brightgreen?style=flat"/>
+ <img src="https://img.shields.io/npm/v/npm?style=flat">
+ <img src="https://img.shields.io/website?style=flat&url=https%3A%2F%2Fnext-os.vercel.app/"> 
+ <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=flat"/>
+ <img src="https://img.shields.io/github/languages/code-size/pushkarydv/NextOS?logo=github&style=flat">
+</div>
 
 <!-- website status and other data size -->
 <!-- `Visit` button -->
