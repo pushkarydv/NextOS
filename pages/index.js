@@ -8,6 +8,18 @@ export default function Home() {
   return (
     <>
       <Head>
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-907HKY5G82"
+        ></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+          window.dataLayer = window.dataLayer || []; function gtag()
+          {dataLayer.push(arguments)}
+          gtag('js', new Date()); gtag('config', 'G-907HKY5G82');`,
+          }}
+        />
         <title>NextOS</title>
         <meta
           name="description"
